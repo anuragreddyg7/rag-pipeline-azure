@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+azure-storage-blob
+azure-search-documents>=11.7.0
+azure-core
+azure-ai-openai
+PyPDF2
+python-multipart
+requests
